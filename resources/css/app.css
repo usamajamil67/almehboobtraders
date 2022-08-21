@@ -1,0 +1,85 @@
+
+/* Navbar css */
+.nav-logo {
+    max-width: 70px;
+    width: 100%;
+}
+.navbar-brand{
+    font-family: 'Anton', sans-serif;
+    color: black
+}
+.nav-link:hover {
+    color: rgb(33, 192, 54);
+    cursor: pointer
+}
+/* .navbar{
+    background-color: #262626
+} */
+
+/* footer */
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@700&display=swap');
+
+body {
+    background-color: #f3f6fd;
+    font-size: 13px;
+    font-weight: bold;
+    color: rgb(33, 192, 54)
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0
+}
+
+ul>li {
+    padding: 4px;
+    color:#1bb13b;
+}
+
+ul>li:hover {
+    color: black;
+    cursor: pointer
+}
+
+hr {
+    border-width: 3px
+}
+
+.card {
+    padding: 2% 7%
+}
+
+.social>i {
+    padding: 1%;
+    font-size: 15px
+}
+
+.social>i:hover {
+    color: #957bda;
+    cursor: pointer
+}
+
+.policy>div {
+    padding: 4px
+}
+
+.heading {
+    font-family: 'Titillium Web', sans-serif;
+    color: black
+}
+
+.divider {
+    border-top: 2px solid
+}
+
+/* featured */
+.featured{
+    color: black;
+}
+
+
+
+
+
+
